@@ -71,7 +71,7 @@ LOGIN:
      ether1 = 12.12.12.6/30 (untuk koneksi R3 ke R2)  
      ether2 = 12.12.12.9/30 (untuk koneksi R3 ke R4)  
 ![d](r3.PNG)
-  6. Sekarang konfigurasi static routing  
+  5. Sekarang konfigurasi static routing  
      dst addrs=11.11.11.0/27 gateway=12.12.12.5 (Ke Laptop A lewat R2)  
      dst addrs=22.22.22.0/29 gateway=12.12.12.10 (Ke Laptop B lewat R4)  
 ![e](rotest.PNG)
