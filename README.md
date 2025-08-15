@@ -36,8 +36,6 @@ LOGIN:
 1. colokkan R2 ke laptop buka winbox  
    pilih menu terminal buatkan password dan user lalu identity   
 
-![M](LAB22NM2.PNG)  
-
 2. masukan ip address untuk eth1 dan eth2     
    pilih Menu IP > Address   
    klik +   
